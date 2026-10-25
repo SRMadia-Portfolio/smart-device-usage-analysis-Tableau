@@ -148,7 +148,8 @@ GROUP BY Workout_Type
 
 ## :bar_chart: Data Visualization - Tableau 
 Chose olive (#BAB86C) and violet (#CF9FFF) due to colour psychology whereby men preferred olive and women preferred colours such as violet. Bar graphs were used to showcase the difference between user usage per dataset or preferred workout types. Lastly, the tree map gave the most distinct calculation variation when determining the average calorie burn per workout type. 
-
+![pdf alt](https://github.com/SRMadia-Portfolio/smart-device-usage-analysis-Tableau/blob/d7137654fe13078cdb73a6332e410f5142a3041e/Bellabeat%20dashboard.pdf)
+![pdf alt](https://github.com/SRMadia-Portfolio/smart-device-usage-analysis-Tableau/blob/d7137654fe13078cdb73a6332e410f5142a3041e/Bellabeat%20dashboard%20-%202.pdf)
 
 ## :pushpin: Actions and limitations
 Based on the two datasets which were selected to analyze smart devices usage trends in relation to physical activities or health awareness, Bellabeat can focus on two types of people who are on their health journey. The first type; are professional athletes who are stats driven and seek to gather a holistic data view of their health, whether active or inactive. The second type; would be the everyday person who has started or is currently on health journey. The aforementioned type, would need to simplest type of data collection and view of their journey. 
@@ -156,4 +157,3 @@ Based on the two datasets which were selected to analyze smart devices usage tre
 Limiting factors regarding these datasets were; datasets being dated or not collected during the same period. Secondly, not all users had a consistent collection of data for the two – three months and blanks in between the datasets likely led to the calculations having an undesirable margin of error.  
 
 The conclusion would be to determine the marketing campaign’s budget and whether to focus on either type or both but have a staggered approach in order not to confuse the target market.
-
